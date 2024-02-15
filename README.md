@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mahn Bonnie</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahn-bonnie&label=Profile%20views&color=0e75b6&style=flat" alt="mahn-bonnie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahn-bonnie" alt="mahn-bonnie" /></a> </p>
 
-- 🔭 I’m currently working on **a ThreeJs projects**
+- 🔭 I’m currently working on **ThreeJs projects**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
