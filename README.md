@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahn-bonnie&label=Profile%20views&color=0e75b6&style=flat" alt="mahn-bonnie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahn-bonnie" alt="mahn-bonnie" /></a> </p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
 - 🔭 I’m currently working on **ThreeJs projects**
 
@@ -17,8 +18,6 @@
 - 📫 How to reach me **mulibonface187@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny!**
-
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
