@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mulibonface187@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny!**
+- ⚡ Fun fact **It is physically impossible for pigs to look up into the sky.😂😂!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
