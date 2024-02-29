@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahn-bonnie" alt="mahn-bonnie" /></a> </p>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 
-- 🔭 I’m currently working on **ThreeJs projects**
+- 🔭 I’m currently working on **Machine Learning projects**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Frontend, AI and ML proojects**
 
-- 💬 Ask me about **reactjs, threejs & nextjs**
+- 💬 Ask me about **Frontend, AI and ML**
 
 - 📫 How to reach me **mulibonface187@gmail.com**
 
