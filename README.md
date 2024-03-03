@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahn Bonnie</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate Software Developer and Data Scientist <br> from Kenya</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahn-bonnie&label=Profile%20views&color=0e75b6&style=flat" alt="mahn-bonnie" /> </p>
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Frontend, AI and ML proojects**
+- 👯 I’m looking to collaborate on **Frontend, AI and ML projects**
 
 - 💬 Ask me about **Frontend, AI and ML**
 
 - 📫 How to reach me **mulibonface187@gmail.com**
 
-- ⚡ Fun fact **It is physically impossible for pigs to look up into the sky.😂😂!**
+- ⚡ Fun fact: **It is physically impossible for pigs to look up into the sky.😂😂!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
