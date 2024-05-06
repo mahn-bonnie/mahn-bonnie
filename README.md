@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Frontend, AI and ML projects**
+- 👯 I’m looking to collaborate on **Frontend, Fullstack, AI and ML projects**
 
-- 💬 Ask me about **Frontend, AI and ML**
+- 💬 Ask me about **Frontend,MERN, AI and ML**
 
 - 📫 How to reach me **mulibonface187@gmail.com**
 
